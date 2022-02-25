@@ -1,6 +1,6 @@
 [![MasterHead](https://www.niit.com/india/sites/default/files/2021-05/Data-Science-and-Machine-Learning_02_0.jpg)](https://shailja-singh.io)
 <h1 align="center">नमस्ते (Namaste)🙏, I'm Shailja Sengar!</h1>
-<h3 align="center">A passionate Machine Learning developer from India. I am also passionate in Web development. I prefer to learn things theoretically as well as practically.</h3>
+<h3 align="center">A DataScience Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 - 🌱 I’m currently learning **Machine Learning, Deep learning**
