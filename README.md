@@ -3,7 +3,7 @@
 <h3 align="center">A DataScience Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning**
+- 🌱 I’m currently persuing **Integrate M Tech in Artificial Intelligence.**
 
 - 💬 Ask me about **ML algorithms**
 
